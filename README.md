@@ -1,0 +1,1 @@
+# Amharic-to-oromifa-translation
